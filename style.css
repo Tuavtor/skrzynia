@@ -1,0 +1,57 @@
+#header_title_css {
+	font-size: 70px;
+	color: orangered;
+	margin-right: 40px;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+#header_css {
+	background-color: lightgrey;
+	padding: 10px;
+
+}
+#header_list_css {
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 25px;
+	margin-left: 300px;
+	margin-bottom: 30px;
+}
+#body_img_css {
+	width:700px;
+	height:500px;
+	margin-left: 100px;
+	margin-top: 100px;
+	border: 5px solid black;
+	border-radius: 30px;
+}
+#body_title_css {
+	margin-left: 100px;
+	margin-top: 100px;
+	font-size: 50px;
+}
+#header_list_element_css {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#body_button_css {
+	margin: 15px;
+	padding: 15px;
+	background-color: #FFE091;
+	color: orangered;
+	border: 5px solid orangered;
+	border-radius: 20px;
+	width: 20%;
+	font-size: 30px;
+	margin-left:100px;
+}
+
+#body_button_css:hover {
+	background-color: #FFEBB8;
+}
+#body_description_css {
+	margin-left: 100px;
+	margin-top: 100px;
+	font-size: 30px;
+	text-align: center;
+}
